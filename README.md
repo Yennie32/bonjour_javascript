@@ -1,6 +1,7 @@
-Exercice n°1 - Bonjour Javascript
+# Bonjour Javascript
 
-Dans le cadre de la formation Ada Tech School
+Exercice n°1 - Ada Tech School
 
-Langages : HTML,Js
+Langages : HTML,JS
+
 Objectif : Appréhension de la notion de variable, scope 
